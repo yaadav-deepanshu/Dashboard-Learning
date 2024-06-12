@@ -1,0 +1,28 @@
+/*selector{*/
+/*	property: value;
+}*/
+body{
+	background-image: url(css1.jpg);
+	background-size: cover ;
+}
+h2 {
+	color: #AA3939;
+	text-align: center;
+/*	border: 6px solid; black;*/
+	cursor: help ;
+}
+
+h1{
+	text-align: center;
+	cursor: wait;
+}
+
+p{
+	color: pink;
+	text-align: center
+}
+
+li{
+	list-style: none;
+	display: inline-block;
+}
